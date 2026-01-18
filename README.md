@@ -1,8 +1,8 @@
 # Sanchirjav Lkhaasuren (He/Him)
 
-**Location:** Ulaanbaatar, Mongolia \\
-**Email:** sanchirjav.lkhasuren@gmail.com \\
-**Phone:**  +976 99881269 \\
+**Location:** Ulaanbaatar, Mongolia <br/>
+**Email:** sanchirjav.lkhasuren@gmail.com <br/>
+**Phone:**  +976 99881269 <br/>
 **LinkedIn:** [Sanchirjav Lkhaasuren](https://www.linkedin.com/in/sanchirjav-lkhaasuren-15989a18b/)  
 
 ---
@@ -16,11 +16,11 @@ I am Platform Engineer at Khan Bank, passionate about cloud-native technologies.
 ## Skills
 
 - **Cloud & Orchestration:** Kubernetes, Istio, Docker, Helm 
+
 - **CI/CD & Automation:** Ansible, Jenkins
 - **Programming & Scripting:** Python, Bash, YAML  
-- **Monitoring & Logging:** Prometheus, Grafana
 - **Version Control:** Git, Azure DevOps  
-- **Other Tools:** Helm, ArgoCD, Harbor, Velero
+- **Other Tools:** Helm, ArgoCD, Harbor d
 - **OS:**  RHEL, Ubuntu
 
 ---
