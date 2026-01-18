@@ -1,26 +1,27 @@
 # Sanchirjav Lkhaasuren (He/Him)
 
-**Location:** Ulaanbaatar
-**Email:** [sanchirjav.lkhasuren@gmail.com]  
-**Phone:** =
-**LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sanchirjav-lkhaasuren-15989a18b/)  
+**Location:** Ulaanbaatar, Mongolia
+**Email:** sanchirjav.lkhasuren@gmail.com
+**Phone:**  +976 99881269
+**LinkedIn:** [Sanchirjav Lkhaasuren](https://www.linkedin.com/in/sanchirjav-lkhaasuren-15989a18b/)  
 
 ---
 
 ## Professional Summary
-
-Platform Engineer at Khan Bank, passionate about cloud-native technologies. I specialize in working with containers, Kubernetes, and Istio to build scalable and resilient systems. I enjoy learning and applying new CNCF tools to improve infrastructure and application delivery. I actively participate in community discussions and continuously explore ways to contribute to the cloud-native ecosystem.
+> [!NOTE]
+I am Platform Engineer at Khan Bank, passionate about cloud-native technologies. I specialize in working with containers, Kubernetes, and Istio to build scalable and resilient systems. I enjoy learning and applying new CNCF tools to improve infrastructure and application delivery. I actively participate in community discussions and continuously explore ways to contribute to the cloud-native ecosystem. Also I have earned Kubestronaut from CNCF.
 
 ---
 
 ## Skills
 
-- **Cloud & Orchestration:** Kubernetes, OpenShift, Istio, Docker, Helm  
-- **CI/CD & Automation:** Ansible, Jenkins, GitLab CI, Terraform  
+- **Cloud & Orchestration:** Kubernetes, Istio, Docker, Helm 
+- **CI/CD & Automation:** Ansible, Jenkins
 - **Programming & Scripting:** Python, Bash, YAML  
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  
-- **Version Control:** Git, GitHub, GitLab  
-- **Other Tools:** Helm, ArgoCD, Harbor, Velero  
+- **Monitoring & Logging:** Prometheus, Grafana
+- **Version Control:** Git, Azure DevOps  
+- **Other Tools:** Helm, ArgoCD, Harbor, Velero
+- **OS:**  RHEL, Ubuntu
 
 ---
 
