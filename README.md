@@ -28,51 +28,71 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 
 ## Work Experience
 
-<style>
-.timeline {
-  border-left: 3px solid #ddd;
-  margin-left: 20px;
-  padding-left: 20px;
-}
-.item {
-  margin-bottom: 30px;
-  position: relative;
-}
-.item::before {
-  content: "";
-  width: 12px;
-  height: 12px;
-  background: #2da44e;
-  border-radius: 50%;
-  position: absolute;
-  left: -28px;
-  top: 5px;
-}
-.role {
-  font-weight: bold;
-  font-size: 1.1em;
-}
-.meta {
-  color: #666;
-  font-size: 0.9em;
-}
-</style>
+### 🟢 Platform Engineer — **Khan Bank**
+**May 2025 – Present** · Full-time · On-site  
+📍 Ulaanbaatar, Mongolia  
 
-<div class="timeline">
+- Operating and improving internal **Kubernetes platforms**
+- Automating infrastructure and platform services using **Ansible**
+- Managing virtualization and platform services on **VMware**
+- Enhancing platform reliability, scalability, and developer experience
 
-<div class="item">
-  <div class="role">Platform Engineer — Khan Bank</div>
-  <div class="meta">May 2025 – Present · Ulaanbaatar · On-site</div>
-  <div><b>Skills:</b> Ansible, Kubernetes, VMware</div>
-</div>
+**Tech:** Kubernetes · Ansible · VMware
 
-<div class="item">
-  <div class="role">DevOps Engineer — Khan Bank</div>
-  <div class="meta">Jan 2024 – May 2025 · Hybrid</div>
-  <div><b>Skills:</b> Kubernetes, Ansible, Python, Docker</div>
-</div>
+---
 
-</div>
+### 🔵 DevOps Engineer — **Khan Bank**
+**Jan 2024 – May 2025** · Full-time · Hybrid  
+📍 Ulaanbaatar, Mongolia  
+
+- Designed and operated **Kubernetes-based deployments**
+- Built automation using **Python** and **Bash**
+- Implemented infrastructure automation with **Ansible**
+- Tracked **DevOps KPI metrics** and system performance
+- Worked with **Hasura** and **MetaBase** for data insights
+- Containerized applications using **Docker**
+- Applied **BDD** practices in CI/CD pipelines
+
+**Tech:** Kubernetes · Ansible · Python · Bash · Docker · RHEL · Hasura · MetaBase
+
+---
+
+### 🟣 DevOps Engineer (Internship) — **Khan Bank**
+**Jul 2023 – Dec 2023** · Internship · On-site  
+📍 Ulaanbaatar, Mongolia  
+
+- Built and maintained **CI/CD pipelines** using **Jenkins**
+- Automated testing with **Selenium**
+- Supported containerized workloads on **Kubernetes**
+- Worked with **VMware vSphere** and **Red Hat Linux**
+- Assisted with infrastructure automation using **Ansible**
+
+**Tech:** Jenkins · Selenium · Kubernetes · Ansible · VMware vSphere · Docker · RHEL
+
+---
+
+### 🟡 Full-stack Developer (Internship) — **Khan Bank**
+**Jun 2022 – Jun 2023** · Internship · On-site  
+📍 Ulaanbaatar, Mongolia  
+
+- Developed backend services using **Python (Flask)**
+- Built frontend features with **Vue.js** and **Node.js**
+- Worked with databases including **Cassandra**
+- Performed UI and functional testing using **Selenium**
+- Strengthened Linux and system fundamentals
+
+**Tech:** Python · Flask · Vue.js · Node.js · Cassandra · Linux · Selenium
+
+---
+
+### ⚪ Call Center Operator (Internship) — **Khan Bank**
+**Jun 2022** · Internship · On-site  
+📍 Ulaanbaatar, Mongolia  
+
+- Supported customer operations in a high-availability banking environment
+- Gained early exposure to business processes and service reliability
+
+---
 
 
 ## Education
