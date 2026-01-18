@@ -107,32 +107,16 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 timeline
     title Certifications — The Linux Foundation
 
-    2024-09 : CKA — Certified Kubernetes Administrator
-             : Cluster administration
-             : Networking, storage, troubleshooting
+    2024-09 : 🛠️ CKA — Certified Kubernetes Administrator ( Expires Sep 2026)
 
-    2025-03 : KCNA — Kubernetes and Cloud Native Associate
-             : Kubernetes fundamentals
-             : Cloud Native concepts
+    2025-03 : ☁️ KCNA — Kubernetes and Cloud Native Associate (Expires Mar 2027)
+            : ☁️🔐 KCSA — Kubernetes and Cloud Native Security Associate  (Expires Mar 2027)
 
-    2025-03 : KCSA — Kubernetes and Cloud Native Security Associate
-             : Kubernetes security basics
-             : Cloud Native security principles
+    2025-04 : CKAD — Certified Kubernetes Application Developer (Expires April 2027)
+            : 🔐 CKS — Certified Kubernetes Security Specialist (Expires April 2027)
 
-    2025-04 : CKAD — Certified Kubernetes Application Developer
-             : Application design & deployment
-             : Kubernetes workloads
-
-    2025-04 : CKS — Certified Kubernetes Security Specialist
-             : Cluster hardening
-             : Runtime & supply-chain security
-
-    2025-04 : Kubestronaut
-             : Issued Apr 2025
-             : Kubernetes
-             : Cloud Computing
-             : Cloud Security
-```
+    2025-05 : 🚀 Kubestronaut
+``
 
 ---
 
@@ -155,20 +139,3 @@ timeline
 - Cloud-native technologies and CNCF projects  
 - Community participation and knowledge sharing  
 - Exploring automation and infrastructure as code solutions  
-
-
-<div style="border-left: 3px solid #ddd; margin-left: 20px; padding-left: 20px;">
-  <div style="margin-bottom: 30px; position: relative;">
-    <div style="font-weight: bold; font-size: 1.1em;">Platform Engineer — Khan Bank</div>
-    <div style="color: #666; font-size: 0.9em;">May 2025 – Present · Ulaanbaatar · On-site</div>
-    <div><b>Skills:</b> Ansible, Kubernetes, VMware</div>
-    <div style="content: ''; width: 12px; height: 12px; background: #2da44e; border-radius: 50%; position: absolute; left: -28px; top: 5px;"></div>
-  </div>
-
-  <div style="margin-bottom: 30px; position: relative;">
-    <div style="font-weight: bold; font-size: 1.1em;">DevOps Engineer — Khan Bank</div>
-    <div style="color: #666; font-size: 0.9em;">Jan 2024 – May 2025 · Hybrid</div>
-    <div><b>Skills:</b> Kubernetes, Ansible, Python, Docker</div>
-    <div style="content: ''; width: 12px; height: 12px; background: #2da44e; border-radius: 50%; position: absolute; left: -28px; top: 5px;"></div>
-  </div>
-</div>
