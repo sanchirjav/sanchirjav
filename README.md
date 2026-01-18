@@ -72,7 +72,7 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 **Tech:** Jenkins · Selenium · Kubernetes · Ansible · VMware vSphere · Docker · RHEL
 
 
-##### 🟡 Full-stack Developer (Internship) — **Khan Ba nk**
+##### 🟡 Full-stack Developer (Internship) — **Khan Bank**
 **Jun 2022 – Jun 2023** · Internship · On-site  
 📍 Ulaanbaatar, Mongolia  
 
