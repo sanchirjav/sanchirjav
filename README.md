@@ -97,7 +97,7 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 ### Education
 
 **Bachelor of Information Technology** – National University of Mongolia
-*Dates of Study: 2020 – 2024*  
+**Dates of Study: 2020 – 2024**
 
 ---
 
