@@ -28,23 +28,52 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 
 ## Work Experience
 
-```mermaid
-timeline
-    title Khan Bank – Work Experience
+<style>
+.timeline {
+  border-left: 3px solid #ddd;
+  margin-left: 20px;
+  padding-left: 20px;
+}
+.item {
+  margin-bottom: 30px;
+  position: relative;
+}
+.item::before {
+  content: "";
+  width: 12px;
+  height: 12px;
+  background: #2da44e;
+  border-radius: 50%;
+  position: absolute;
+  left: -28px;
+  top: 5px;
+}
+.role {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.meta {
+  color: #666;
+  font-size: 0.9em;
+}
+</style>
 
-    2025-05 : Platform Engineer
-             : Ansible, Kubernetes, VMware
+<div class="timeline">
 
-    2024-01 : DevOps Engineer
-             : Kubernetes, Ansible, Python, Docker
+<div class="item">
+  <div class="role">Platform Engineer — Khan Bank</div>
+  <div class="meta">May 2025 – Present · Ulaanbaatar · On-site</div>
+  <div><b>Skills:</b> Ansible, Kubernetes, VMware</div>
+</div>
 
-    2023-07 : DevOps Intern
-             : Jenkins, Selenium, VMware
+<div class="item">
+  <div class="role">DevOps Engineer — Khan Bank</div>
+  <div class="meta">Jan 2024 – May 2025 · Hybrid</div>
+  <div><b>Skills:</b> Kubernetes, Ansible, Python, Docker</div>
+</div>
 
-    2022-06 : Full-stack Intern
-             : Flask, Vue.js, Cassandra
+</div>
 
----
 
 ## Education
 
