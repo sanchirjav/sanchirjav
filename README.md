@@ -1,10 +1,11 @@
 # Sanchirjav Lkhaasuren (He/Him)
 
-**Location:** Ulaanbaatar, Mongolia <br/>
-**Email:** sanchirjav.lkhasuren@gmail.com <br/>
-**Phone:**  +976 99881269 <br/>
-**LinkedIn:** [Sanchirjav Lkhaasuren](https://www.linkedin.com/in/sanchirjav-lkhaasuren-15989a18b/) <br/>
+**Location:** Ulaanbaatar, Mongolia 
+**Email:** sanchirjav.lkhasuren@gmail.com
+**Phone:**  +976 99881269
+**LinkedIn:** [Sanchirjav Lkhaasuren](https://www.linkedin.com/in/sanchirjav-lkhaasuren-15989a18b/)
 **Occupation:** Platform/DevOps engineer
+
 ---
 
 ## Professional Summary
