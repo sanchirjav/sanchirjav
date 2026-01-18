@@ -105,17 +105,14 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 
 ```mermaid
 timeline
-    title Certifications — The Linux Foundation
+    title The Linux Foundation - CNCF
 
-    2024-09 : 🛠️ CKA — Certified Kubernetes Administrator ( Expires Sep 2026)
-
-    2025-03 : ☁️ KCNA — Kubernetes and Cloud Native Associate (Expires Mar 2027)
-            : ☁️🔐 KCSA — Kubernetes and Cloud Native Security Associate  (Expires Mar 2027)
-
-    2025-04 : CKAD — Certified Kubernetes Application Developer (Expires April 2027)
-            : 🔐 CKS — Certified Kubernetes Security Specialist (Expires April 2027)
-
-    2025-05 : 🚀 Kubestronaut
+    2024-09-08 : 🛠️ CKA — Certified Kubernetes Administrator ( Expires Sep 2026)
+    2025-03-17 : ☁️ KCNA — Kubernetes and Cloud Native Associate (Expires Mar 2027)
+    2025-03-30 : 🔐 KCSA — Kubernetes and Cloud Native Security Associate  (Expires Mar 2027)
+    2025-04-17 : 🔐 CKS — Certified Kubernetes Security Specialist (Expires April 2027)
+    2025-04-27 : ⎈ CKAD — Certified Kubernetes Application Developer (Expires April 2027)
+    2025-04-28 : 🚀⎈ Kubestronaut
 ```
 
 ---
