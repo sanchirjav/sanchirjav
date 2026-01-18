@@ -27,7 +27,23 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 ---
 
 ## Work Experience
->
+
+
+<details>
+
+<summary> ##### 🟢 Platform Engineer — **Khan Bank** </summary>
+
+**May 2025 – Present** · Full-time · On-site  
+📍 Ulaanbaatar, Mongolia  
+
+- Operating and improving internal **Kubernetes platforms**
+- Automating infrastructure and platform services using **Ansible**
+- Managing virtualization and platform services on **VMware**
+- Enhancing platform reliability, scalability, and developer experience
+
+**Tech:** Kubernetes · Ansible · VMware
+
+</details>
 
 ##### 🟢 Platform Engineer — **Khan Bank**
 **May 2025 – Present** · Full-time · On-site  
@@ -41,7 +57,7 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 **Tech:** Kubernetes · Ansible · VMware
 
 
->
+
 ##### 🔵 DevOps Engineer — **Khan Bank**
 **Jan 2024 – May 2025** · Full-time · Hybrid  
 📍 Ulaanbaatar, Mongolia  
@@ -57,7 +73,7 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 **Tech:** Kubernetes · Ansible · Python · Bash · Docker · RHEL · Hasura · MetaBase
 
 
->
+
 ##### 🟣 DevOps Engineer (Internship) — **Khan Bank**
 **Jul 2023 – Dec 2023** · Internship · On-site  
 📍 Ulaanbaatar, Mongolia  
@@ -70,7 +86,7 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 
 **Tech:** Jenkins · Selenium · Kubernetes · Ansible · VMware vSphere · Docker · RHEL
 
->
+
 ##### 🟡 Full-stack Developer (Internship) — **Khan Ba nk**
 **Jun 2022 – Jun 2023** · Internship · On-site  
 📍 Ulaanbaatar, Mongolia  
@@ -83,7 +99,7 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 
 **Tech:** Python · Flask · Vue.js · Node.js · Cassandra · Linux · Selenium
 
->
+
 ##### ⚪ Call Center Operator (Internship) — **Khan Bank**
 **Jun 2022** · Internship · On-site  
 📍 Ulaanbaatar, Mongolia  
