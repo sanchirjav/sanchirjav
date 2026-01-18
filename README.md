@@ -1,16 +1,15 @@
 # Sanchirjav Lkhaasuren (He/Him)
 
-**Location:** Dornod, Sergelen, Mongolia  
-**Email:** [your.email@example.com]  
-**Phone:** [+976 XXX XXXX]  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+**Location:** Ulaanbaatar
+**Email:** [sanchirjav.lkhasuren@gmail.com]  
+**Phone:** =
+**LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sanchirjav-lkhaasuren-15989a18b/)  
 
 ---
 
 ## Professional Summary
 
-DevOps Engineer at Khan Bank, passionate about cloud-native technologies. I specialize in working with containers, Kubernetes, and Istio to build scalable and resilient systems. I enjoy learning and applying new CNCF tools to improve infrastructure and application delivery. I actively participate in community discussions and continuously explore ways to contribute to the cloud-native ecosystem.
+Platform Engineer at Khan Bank, passionate about cloud-native technologies. I specialize in working with containers, Kubernetes, and Istio to build scalable and resilient systems. I enjoy learning and applying new CNCF tools to improve infrastructure and application delivery. I actively participate in community discussions and continuously explore ways to contribute to the cloud-native ecosystem.
 
 ---
 
