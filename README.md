@@ -155,3 +155,20 @@ timeline
 - Cloud-native technologies and CNCF projects  
 - Community participation and knowledge sharing  
 - Exploring automation and infrastructure as code solutions  
+
+
+<div style="border-left: 3px solid #ddd; margin-left: 20px; padding-left: 20px;">
+  <div style="margin-bottom: 30px; position: relative;">
+    <div style="font-weight: bold; font-size: 1.1em;">Platform Engineer — Khan Bank</div>
+    <div style="color: #666; font-size: 0.9em;">May 2025 – Present · Ulaanbaatar · On-site</div>
+    <div><b>Skills:</b> Ansible, Kubernetes, VMware</div>
+    <div style="content: ''; width: 12px; height: 12px; background: #2da44e; border-radius: 50%; position: absolute; left: -28px; top: 5px;"></div>
+  </div>
+
+  <div style="margin-bottom: 30px; position: relative;">
+    <div style="font-weight: bold; font-size: 1.1em;">DevOps Engineer — Khan Bank</div>
+    <div style="color: #666; font-size: 0.9em;">Jan 2024 – May 2025 · Hybrid</div>
+    <div><b>Skills:</b> Kubernetes, Ansible, Python, Docker</div>
+    <div style="content: ''; width: 12px; height: 12px; background: #2da44e; border-radius: 50%; position: absolute; left: -28px; top: 5px;"></div>
+  </div>
+</div>
