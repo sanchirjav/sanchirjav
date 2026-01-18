@@ -1,9 +1,9 @@
 # Sanchirjav Lkhaasuren (He/Him)
 
-**Location:** Ulaanbaatar, Mongolia 
-**Email:** sanchirjav.lkhasuren@gmail.com
-**Phone:**  +976 99881269
-**LinkedIn:** [Sanchirjav Lkhaasuren](https://www.linkedin.com/in/sanchirjav-lkhaasuren-15989a18b/)
+**Location:** Ulaanbaatar, Mongolia  <br/>
+**Email:** sanchirjav.lkhasuren@gmail.com <br/>
+**Phone:**  +976 99881269 <br/>
+**LinkedIn:** [Sanchirjav Lkhaasuren](https://www.linkedin.com/in/sanchirjav-lkhaasuren-15989a18b/) <br/>
 **Occupation:** Platform/DevOps engineer
 
 ---
@@ -28,17 +28,21 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 
 ## Work Experience
 
-**DevOps Engineer** – Khan Bank  
-*Dates of Employment: [Start Date] – Present*  
-- Design, deploy, and maintain scalable containerized applications using Kubernetes and Istio.  
-- Implement CI/CD pipelines with automation tools like Ansible and Jenkins.  
-- Monitor infrastructure and applications using Prometheus and Grafana for high availability.  
-- Collaborate with development teams to ensure best practices for cloud-native deployments.  
-- Participate in community discussions and evaluate emerging CNCF tools for adoption.  
+```mermaid
+timeline
+    title Khan Bank – Work Experience
 
-*Previous Role (Optional)* – [Company Name]  
-*Dates of Employment: [Start Date] – [End Date]*  
-- [Responsibilities / Achievements]  
+    2025-05 : Platform Engineer
+             : Ansible, Kubernetes, VMware
+
+    2024-01 : DevOps Engineer
+             : Kubernetes, Ansible, Python, Docker
+
+    2023-07 : DevOps Intern
+             : Jenkins, Selenium, VMware
+
+    2022-06 : Full-stack Intern
+             : Flask, Vue.js, Cassandra
 
 ---
 
