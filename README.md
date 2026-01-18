@@ -116,7 +116,7 @@ timeline
             : 🔐 CKS — Certified Kubernetes Security Specialist (Expires April 2027)
 
     2025-05 : 🚀 Kubestronaut
-``
+```
 
 ---
 
