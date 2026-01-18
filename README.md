@@ -29,11 +29,11 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 ## Work Experience
 
 
+
 <details>
+<summary>🟢 Platform Engineer — Khan Bank (May 2025 – Present)</summary>
 
-<summary> ##### 🟢 Platform Engineer — **Khan Bank** </summary>
-
-**May 2025 – Present** · Full-time · On-site  
+**Full-time · On-site**  
 📍 Ulaanbaatar, Mongolia  
 
 - Operating and improving internal **Kubernetes platforms**
@@ -45,21 +45,10 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 
 </details>
 
-##### 🟢 Platform Engineer — **Khan Bank**
-**May 2025 – Present** · Full-time · On-site  
-📍 Ulaanbaatar, Mongolia  
+<details>
+<summary>🔵 DevOps Engineer — Khan Bank (Jan 2024 – May 2025)</summary>
 
-- Operating and improving internal **Kubernetes platforms**
-- Automating infrastructure and platform services using **Ansible**
-- Managing virtualization and platform services on **VMware**
-- Enhancing platform reliability, scalability, and developer experience
-
-**Tech:** Kubernetes · Ansible · VMware
-
-
-
-##### 🔵 DevOps Engineer — **Khan Bank**
-**Jan 2024 – May 2025** · Full-time · Hybrid  
+**Full-time · Hybrid**  
 📍 Ulaanbaatar, Mongolia  
 
 - Designed and operated **Kubernetes-based deployments**
@@ -72,10 +61,12 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 
 **Tech:** Kubernetes · Ansible · Python · Bash · Docker · RHEL · Hasura · MetaBase
 
+</details>
 
+<details>
+<summary>🟣 DevOps Engineer (Internship) — Khan Bank (Jul 2023 – Dec 2023)</summary>
 
-##### 🟣 DevOps Engineer (Internship) — **Khan Bank**
-**Jul 2023 – Dec 2023** · Internship · On-site  
+**Internship · On-site**  
 📍 Ulaanbaatar, Mongolia  
 
 - Built and maintained **CI/CD pipelines** using **Jenkins**
@@ -86,9 +77,12 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 
 **Tech:** Jenkins · Selenium · Kubernetes · Ansible · VMware vSphere · Docker · RHEL
 
+</details>
 
-##### 🟡 Full-stack Developer (Internship) — **Khan Ba nk**
-**Jun 2022 – Jun 2023** · Internship · On-site  
+<details>
+<summary>🟡 Full-stack Developer (Internship) — Khan Bank (Jun 2022 – Jun 2023)</summary>
+
+**Internship · On-site**  
 📍 Ulaanbaatar, Mongolia  
 
 - Developed backend services using **Python (Flask)**
@@ -99,13 +93,18 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 
 **Tech:** Python · Flask · Vue.js · Node.js · Cassandra · Linux · Selenium
 
+</details>
 
-##### ⚪ Call Center Operator (Internship) — **Khan Bank**
-**Jun 2022** · Internship · On-site  
+<details>
+<summary>⚪ Call Center Operator (Internship) — Khan Bank (Jun 2022)</summary>
+
+**Internship · On-site**  
 📍 Ulaanbaatar, Mongolia  
 
 - Supported customer operations in a high-availability banking environment
 - Gained early exposure to business processes and service reliability
+
+</details>
 
 ---
 
