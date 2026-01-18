@@ -1,8 +1,8 @@
 # Sanchirjav Lkhaasuren (He/Him)
 
-**Location:** Ulaanbaatar, Mongolia
-**Email:** sanchirjav.lkhasuren@gmail.com
-**Phone:**  +976 99881269
+**Location:** Ulaanbaatar, Mongolia \\
+**Email:** sanchirjav.lkhasuren@gmail.com \\
+**Phone:**  +976 99881269 \\
 **LinkedIn:** [Sanchirjav Lkhaasuren](https://www.linkedin.com/in/sanchirjav-lkhaasuren-15989a18b/)  
 
 ---
