@@ -29,7 +29,7 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 ## Work Experience
 >
 
-### 🟢 Platform Engineer — **Khan Bank**
+##### 🟢 Platform Engineer — **Khan Bank**
 **May 2025 – Present** · Full-time · On-site  
 📍 Ulaanbaatar, Mongolia  
 
@@ -42,7 +42,7 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 
 
 >
-### 🔵 DevOps Engineer — **Khan Bank**
+##### 🔵 DevOps Engineer — **Khan Bank**
 **Jan 2024 – May 2025** · Full-time · Hybrid  
 📍 Ulaanbaatar, Mongolia  
 
@@ -58,7 +58,7 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 
 
 >
-### 🟣 DevOps Engineer (Internship) — **Khan Bank**
+##### 🟣 DevOps Engineer (Internship) — **Khan Bank**
 **Jul 2023 – Dec 2023** · Internship · On-site  
 📍 Ulaanbaatar, Mongolia  
 
@@ -71,7 +71,7 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 **Tech:** Jenkins · Selenium · Kubernetes · Ansible · VMware vSphere · Docker · RHEL
 
 >
-### 🟡 Full-stack Developer (Internship) — **Khan Bank**
+##### 🟡 Full-stack Developer (Internship) — **Khan Ba nk**
 **Jun 2022 – Jun 2023** · Internship · On-site  
 📍 Ulaanbaatar, Mongolia  
 
@@ -84,7 +84,7 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 **Tech:** Python · Flask · Vue.js · Node.js · Cassandra · Linux · Selenium
 
 >
-### ⚪ Call Center Operator (Internship) — **Khan Bank**
+##### ⚪ Call Center Operator (Internship) — **Khan Bank**
 **Jun 2022** · Internship · On-site  
 📍 Ulaanbaatar, Mongolia  
 
@@ -94,24 +94,52 @@ I have managed enterprise-grade infrastructure for two years, specializing in up
 ---
 
 
-## Education
+### Education
 
-**[Degree, e.g., Bachelor of Science in Computer Science]** – [University Name]  
-*Dates of Study: [Start Year] – [End Year]*  
+**Bachelor of Information Technology** – National University of Mongolia
+*Dates of Study: 2020 – 2024*  
 
 ---
 
 ## Certifications
 
-- [Certification Name] – [Issuing Organization]  
-- [Certification Name] – [Issuing Organization]  
+```mermaid
+timeline
+    title Certifications — The Linux Foundation
+
+    2024-09 : CKA — Certified Kubernetes Administrator
+             : Cluster administration
+             : Networking, storage, troubleshooting
+
+    2025-03 : KCNA — Kubernetes and Cloud Native Associate
+             : Kubernetes fundamentals
+             : Cloud Native concepts
+
+    2025-03 : KCSA — Kubernetes and Cloud Native Security Associate
+             : Kubernetes security basics
+             : Cloud Native security principles
+
+    2025-04 : CKAD — Certified Kubernetes Application Developer
+             : Application design & deployment
+             : Kubernetes workloads
+
+    2025-04 : CKS — Certified Kubernetes Security Specialist
+             : Cluster hardening
+             : Runtime & supply-chain security
+
+    2025-04 : Kubestronaut
+             : Issued Apr 2025
+             : Kubernetes
+             : Cloud Computing
+             : Cloud Security
+```
 
 ---
 
-## Projects (Optional)
+## Projects 
 
-- **[Project Name]** – [Short description and technologies used]  
-- **[Project Name]** – [Short description and technologies used]  
+- **NULL** 
+
 
 ---
 
